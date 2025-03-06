@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h2>The method Attribute</h2>
+<h2>Registration Page</h2>
 
 
 <form action="submit.php" method="post">
